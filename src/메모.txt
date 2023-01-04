@@ -8,3 +8,5 @@
 // 1. newTodo라는 객체를 만들고
 // 2. setTodos에 넣었었죠! prev 
 // 3. dispatch는 store로 액션을 던진다. 
+
+// 깃 테스트
